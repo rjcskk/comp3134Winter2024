@@ -1,0 +1,43 @@
+1. msfuse.com
+IP addresses for msfuse.com
+
+Our DNS servers responded with these IP addresses when we queried it for the domain msfuse.com. Some DNS servers may return different IP addresses based on your location.
+
+IP address	Type	Hosted by	Location
+183.111.251.25	IPv4	Hosted by Korea Telecom Korea Telecom	Korea, Republic of
+
+2. ttc.ca
+IP addresses for ttc.ca
+
+Our DNS servers responded with these IP addresses when we queried it for the domain ttc.ca. Some DNS servers may return different IP addresses based on your location.
+
+IP address	Type	Hosted by	Location
+20.39.143.75	IPv4	Hosted by Microsoft Corporation Microsoft Corporation	Canada
+
+3. canada.ca
+IP addresses for canada.ca
+
+Our DNS servers responded with these IP addresses when we queried it for the domain canada.ca. Some DNS servers may return different IP addresses based on your location.
+
+IP address	Type	Hosted by	Location
+205.193.117.159	IPv4	Hosted by Shared Services Canada Shared Services Canada	Canada
+167.40.79.24	IPv4	Hosted by Shared Services Canada Shared Services Canada	Canada
+205.193.215.159	IPv4	Hosted by Shared Services Canada Shared Services Canada	Canada
+160.106.123.29	IPv4	Hosted by Shared Services Canada Shared Services Canada	Canada
+
+4. uber.com
+IP addresses for uber.com
+
+Our DNS servers responded with these IP addresses when we queried it for the domain uber.com. Some DNS servers may return different IP addresses based on your location.
+
+IP address	Type	Hosted by	Location
+34.98.127.226	IPv4	Hosted by Google LLC Google LLC	United States of America
+
+5. gmail.com
+IP addresses for gmail.com
+
+Our DNS servers responded with these IP addresses when we queried it for the domain gmail.com. Some DNS servers may return different IP addresses based on your location.
+
+IP address	Type	Hosted by	Location
+172.217.164.101	IPv4	Hosted by Google LLC Google LLC	United States of America
+2607:f8b0:4005:80c::2005	IPv6	Hosted by Google LLC Google LLC	United States of America
