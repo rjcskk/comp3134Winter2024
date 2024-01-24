@@ -1,0 +1,45 @@
+root@comp3134Winter2024:~# nmap 159.203.2.11
+Starting Nmap 7.80 ( https://nmap.org ) at 2024-01-24 03:29 UTC
+Nmap scan report for comp3134Winter2024 (159.203.2.11)
+Host is up (0.0000090s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+25/tcp open  smtp
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 0.11 seconds
+root@comp3134Winter2024:~# nmap -p 80 159.203.2.11
+Starting Nmap 7.80 ( https://nmap.org ) at 2024-01-24 03:29 UTC
+Nmap scan report for comp3134Winter2024 (159.203.2.11)
+Host is up (0.000056s latency).
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 0.05 seconds
+root@comp3134Winter2024:~# nmap -p 10-100 159.203.2.11
+Starting Nmap 7.80 ( https://nmap.org ) at 2024-01-24 03:30 UTC
+Nmap scan report for comp3134Winter2024 (159.203.2.11)
+Host is up (0.000010s latency).
+Not shown: 88 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+25/tcp open  smtp
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 0.13 seconds
+root@comp3134Winter2024:~# nmap -f 159.203.2.11
+Starting Nmap 7.80 ( https://nmap.org ) at 2024-01-24 03:30 UTC
+Nmap scan report for comp3134Winter2024 (159.203.2.11)
+Host is up (0.000017s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+25/tcp open  smtp
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 0.10 seconds
+root@comp3134Winter2024:~#
+
+

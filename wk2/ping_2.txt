@@ -1,0 +1,12 @@
+root@comp3134Winter2024:~# ping 159.203.2.11
+PING 159.203.2.11 (159.203.2.11) 56(84) bytes of data.
+64 bytes from 159.203.2.11: icmp_seq=1 ttl=64 time=0.044 ms
+64 bytes from 159.203.2.11: icmp_seq=2 ttl=64 time=0.062 ms
+64 bytes from 159.203.2.11: icmp_seq=3 ttl=64 time=0.046 ms
+64 bytes from 159.203.2.11: icmp_seq=4 ttl=64 time=0.051 ms
+64 bytes from 159.203.2.11: icmp_seq=5 ttl=64 time=0.052 ms
+^C
+--- 159.203.2.11 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4084ms
+rtt min/avg/max/mdev = 0.044/0.051/0.062/0.006 ms
+root@comp3134Winter2024:~#
